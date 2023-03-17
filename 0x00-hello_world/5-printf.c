@@ -2,7 +2,7 @@
 /**
  * main -print a C programme using print f
  *
- * Returns: 0
+ * Return: 0
 */
 int main(void)
 {
