@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main -a function that print to lower case
  *
